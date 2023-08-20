@@ -55,7 +55,7 @@ public class ChatGPTRequest : MonoBehaviour
     IEnumerator Datasend()
     {
         string url = "https://api.openai.com/v1/completions";
-        string apiKey = "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";
+        string apiKey = "your open ai key here";
         string prompt = text.text;
 
         answer.text = "";
