@@ -1,7 +1,7 @@
 # GPT-Desktop-ZxEditon
 Implementation of Rest Api for using GPT on your PC
 
-![](https://animesher.com/orig/1/145/1458/14586/animesher.com_short-hair-gif-kyoukai-no-kanata-1458618.gif)
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBmem4xYWVuMnVnZmlnZXJ3Mjg1MXg3dzMzNndqODFhc2E1Mm5rZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RMwgs5kZqkRyhF24KK/200.gif)
 
 ## How to use it?
 1. Clone repo
